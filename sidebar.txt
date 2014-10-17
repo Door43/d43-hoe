@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hoe:home|Door43 (hoe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hoe|d43-hoe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hoe/archive/master.zip|d43-hoe.zip]]
+
+**Recent Changes**
+{{changes>ns = hoe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hoe|Ethnologue data]]
+
